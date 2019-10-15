@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Iffat\'s CV</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">Iffat Kalsoom</string>
+    <string name="resume_title">Student | BS Computer Science</string>
+    <string name="user_address">Lahore,Pakistan </string>
+    <string-array name="home">
+        <item>Home</item>
+        <item>Profile</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="email">iffat.alvi2185@gmail.com</string>
+    <string name="Address">Lahore, Pakistan</string>
+    <string name="description">Description</string>
+    <string name="AboutMe_Title">About Me</string>
+    <string name="Question1">Career Goal</string>
+    <string name="Question2">Ownership</string>
+    <string name="experience">Experience</string>
+    <string name="hands_on_skills">Skills</string>
+    <string name="phoneNumber">+923224713590</string>
+    <string name="Linkedin_IdLink">https://www.linkedin.com/in/iffat-alvi-989862191/</string>
+    <string name="Linkedin_UserName">iffatalvi</string>
+    <string name="Github_UserName">Iffat-Kalsoom</string>
+    <string name="Github_IdLink">https://github.com/Iffat-Kalsoom</string>
+    <string name="ieee_link">https://ieeexplore.ieee.org/document/7840114</string>
+    <string name="StackOverFlow_UserName">Iffat</string>
+    <string name="stackOverFlow_IdLink">https://stackoverflow.com/users/11957985/iffat</string>
+    <string name="education">Education</string>
+    <string name="answer">Work give us meaning, so I\'d to work in a optimistic environment. My ultimate goal is to give back to the society using my tech skills.</string>
+    <string name="answer1">I\'m accountable at my work. My priority is to make sure that whatever I develop or contribute into; should be of the highest quality.
+       </string>
+    <string name="experience_title">BS Computer Science Student</string>
+    <string name="experience_description">\u2713 C for Linux OS\n\u2713 C++\n\u2713 Java\n\u2713 Assembly Language x86\n\u2713 Database (SQL)</string>
+    <string name="why_i_did_choose_work_1">"\u2713 To write modular, optimized and maintainable code\n""\u2713 SQL database are manageable,portable and interactive\n""\u2713C lets us communicate with the OS directly\n""\u2713Java lets us build modular, platform independent code"</string>
+
+    <string name="year11">(year)</string>
+    <string name="experience_title1">Front Desk Officer(FDO)</string>
+    <string name="experience_description1">\u2713 Registration \n\u2713 Conducting Admission Test</string>
+    <string name="experience_year1">(year)</string>
+    <string name="experience_title2">Software Engineer</string>
+    <string name="experience_description2"> </string>
+    <string name="experience_year2">Aug 2012 – Jan 2014</string>
+
+    <string name="project_title">Restaurant Website</string>
+    <string name="project_description">\u2713 ASP.NET MVC\n\u2713 SQL\n\u2713 Javascript\n\u2713 C#\n\u2713 HTML</string>
+    <string name="year">(2019)</string>
+
+    <string name="project_title1">Classical Snake Game</string>
+    <string name="project_description1">"\u2713 A 5 minute game where rules match the classic snake game with some hard rules written in assembly language </string>
+
+    <string name="year1">(2019)</string>
+    <string name="project_title2">4-Bit Processor</string>
+    <string name="project_description2">\u2713 An internal connection-implemented 4-bit processor which consists of 4 data registers each of 4 bits and an instruction
+register (IR) of 7 bits. The processor has four flags ZF, SF, OF and Cout. Made on Logic Works.</string>
+
+    <string name="project_title3">Snakes and Ladders</string>
+    <string name="project_description3">"\u2713 A two-player board game where both users roll a dice and play the classic snakes and ladders written in C++</string>
+
+    <string name="project_title4">FaceBook</string>
+    <string name="project_description4">"\u2713 FaceBook app on console level using advanced concepts of OOP in C++</string>
+
+
+    <string name="year2">(2019)</string>
+    <string name="todo">TODO</string>
+    <string name="email_title">Email</string>
+    <string name="address_title">Address</string>
+    <string name="phone_number_title">Phone Number</string>
+    <string name="professional_links_title">Professional Links</string>
+    <string name="linkedin_title">Linkedin</string>
+    <string name="twitter_title">Twitter</string>
+    <string name="stack_overflow_title">Stack Overflow</string>
+    <string name="github_title">Github</string>
+    <string name="Metric_degree_title">Metric</string>
+    <string name="school_name">Lahore Grammar School</string>
+    <string name="intermediate_title">Intermediate in Computer Science (ICS)</string>
+    <string name="college_title">Punjab University College of Information Technology</string>
+    <string name="graduation_title">Bachelors of Computer Science (BSCS) </string>
+    <string name="university_title">National University College of Computer and Emerging Sciences</string>
+    <string name="degree_title1">ACM</string>
+    <string name="degree_title2">SOFTEC \'18</string>
+    <string name="degree_title3">SOFTEC \'19</string>
+    <string name="degree_title4">SOFTEC \'20</string>
+    <string name="school_year">(2015)</string>
+    <string name="college_year">(2015 – 2017)</string>
+    <string name="university_year">(2017 – 2021)</string>
+    <string name="Cgpa"> </string>
+    <string name="certification_courses_title">Contributions</string>
+    <string name="institute_title">A parametric effort estimation model for mobile apps</string>
+    <string name="institute_year">2016-Present</string>
+    <string name="grades">(grades)</string>
+    <string name="institute_title1">Bringing about a change by arranging technology related workshops and competitions</string>
+    <string name="institute_year1">2018-Present</string>
+    <string name="grades1">(grades)</string>
+    <string name="institute_title2">Volunteer-Ceremonies\nArranging various ceremonies, conferences and panel discussions</string>
+    <string name="institute_year2">2018</string>
+    <string name="institute_title3">Volunteer-Software Competition\nProviding a platform for CS students to take part in software related competitions</string>
+    <string name="institute_year3">2019</string>
+    <string name="institute_title4">Deputy Head-Software Competition\nArranging platform for software competitions</string>
+    <string name="institute_year4">2020</string>
+    <string name="grades2">(grades)</string>
+    <string name="skill_title_1">C++</string>
+    <string name="skill_title_2">Java</string>
+    <string name="skill_title_3">Web Development</string>
+    <string name="skill_title_4">Assembly Language</string>
+    <string name="skill_title_5">C</string>
+    <string name="projects_title">Projects</string>
+    <string name="why_i_did_choose_above_title_0">Why above:</string>
+    <string name="why_i_did_choose_above_title_1">Why did I choose FDO:</string>
+    <string name="why_i_did_choose_work_2">"\u2713" Skills like communication and socializing with other people is also important along with CS. So being an FDO polished much of my extra skills.</string>
+    <string name="why_i_did_choose_work_3">"\u2713" Client based company, so considering the requirements from clients and keeping in point latest technology at that time I used above technology stack. </string>
+    <string name="company_name1">National University of Computer and Emerging Sciences</string>
+    <string name="experience_time1">August 2017 - June 2020 (4 years)</string>
+    <string name="worked_on_title">Worked On:</string>
+    <string name="company_name2">National University of Computer and Emerging Sciences</string>
+    <string name="experience_time2">July 2019 - August 2019(~1.5 month)</string>
+    <string name="worked_on2">Worked On:</string>
+    <string name="company_name3">MobilezApp inc</string>
+    <string name="experience_time3">August 2012 - January 2014 (1.6 years)</string>
+    <string name="worked_on3">Worked On:</string>
+
+
+</resources>
